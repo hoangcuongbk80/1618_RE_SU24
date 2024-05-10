@@ -1,0 +1,14 @@
+D:\FGW\Courses\1618_Programming\RE_SU24\Code\1618_RE_SU24\Console_Su24\bin\Debug\net8.0\Console_Su24.exe
+D:\FGW\Courses\1618_Programming\RE_SU24\Code\1618_RE_SU24\Console_Su24\bin\Debug\net8.0\Console_Su24.deps.json
+D:\FGW\Courses\1618_Programming\RE_SU24\Code\1618_RE_SU24\Console_Su24\bin\Debug\net8.0\Console_Su24.runtimeconfig.json
+D:\FGW\Courses\1618_Programming\RE_SU24\Code\1618_RE_SU24\Console_Su24\bin\Debug\net8.0\Console_Su24.dll
+D:\FGW\Courses\1618_Programming\RE_SU24\Code\1618_RE_SU24\Console_Su24\bin\Debug\net8.0\Console_Su24.pdb
+D:\FGW\Courses\1618_Programming\RE_SU24\Code\1618_RE_SU24\Console_Su24\obj\Debug\net8.0\Console_Su24.GeneratedMSBuildEditorConfig.editorconfig
+D:\FGW\Courses\1618_Programming\RE_SU24\Code\1618_RE_SU24\Console_Su24\obj\Debug\net8.0\Console_Su24.AssemblyInfoInputs.cache
+D:\FGW\Courses\1618_Programming\RE_SU24\Code\1618_RE_SU24\Console_Su24\obj\Debug\net8.0\Console_Su24.AssemblyInfo.cs
+D:\FGW\Courses\1618_Programming\RE_SU24\Code\1618_RE_SU24\Console_Su24\obj\Debug\net8.0\Console_Su24.csproj.CoreCompileInputs.cache
+D:\FGW\Courses\1618_Programming\RE_SU24\Code\1618_RE_SU24\Console_Su24\obj\Debug\net8.0\Console_Su24.dll
+D:\FGW\Courses\1618_Programming\RE_SU24\Code\1618_RE_SU24\Console_Su24\obj\Debug\net8.0\refint\Console_Su24.dll
+D:\FGW\Courses\1618_Programming\RE_SU24\Code\1618_RE_SU24\Console_Su24\obj\Debug\net8.0\Console_Su24.pdb
+D:\FGW\Courses\1618_Programming\RE_SU24\Code\1618_RE_SU24\Console_Su24\obj\Debug\net8.0\Console_Su24.genruntimeconfig.cache
+D:\FGW\Courses\1618_Programming\RE_SU24\Code\1618_RE_SU24\Console_Su24\obj\Debug\net8.0\ref\Console_Su24.dll
