@@ -1,0 +1,15 @@
+D:\FGW\Courses\1618_Programming\RE_SU24\Code\1618_RE_SU24\Lecture2\bin\Debug\net8.0\Lecture2.exe
+D:\FGW\Courses\1618_Programming\RE_SU24\Code\1618_RE_SU24\Lecture2\bin\Debug\net8.0\Lecture2.deps.json
+D:\FGW\Courses\1618_Programming\RE_SU24\Code\1618_RE_SU24\Lecture2\bin\Debug\net8.0\Lecture2.runtimeconfig.json
+D:\FGW\Courses\1618_Programming\RE_SU24\Code\1618_RE_SU24\Lecture2\bin\Debug\net8.0\Lecture2.dll
+D:\FGW\Courses\1618_Programming\RE_SU24\Code\1618_RE_SU24\Lecture2\bin\Debug\net8.0\Lecture2.pdb
+D:\FGW\Courses\1618_Programming\RE_SU24\Code\1618_RE_SU24\Lecture2\obj\Debug\net8.0\Lecture2.GeneratedMSBuildEditorConfig.editorconfig
+D:\FGW\Courses\1618_Programming\RE_SU24\Code\1618_RE_SU24\Lecture2\obj\Debug\net8.0\Lecture2.AssemblyInfoInputs.cache
+D:\FGW\Courses\1618_Programming\RE_SU24\Code\1618_RE_SU24\Lecture2\obj\Debug\net8.0\Lecture2.AssemblyInfo.cs
+D:\FGW\Courses\1618_Programming\RE_SU24\Code\1618_RE_SU24\Lecture2\obj\Debug\net8.0\Lecture2.csproj.CoreCompileInputs.cache
+D:\FGW\Courses\1618_Programming\RE_SU24\Code\1618_RE_SU24\Lecture2\obj\Debug\net8.0\Lecture2.sourcelink.json
+D:\FGW\Courses\1618_Programming\RE_SU24\Code\1618_RE_SU24\Lecture2\obj\Debug\net8.0\Lecture2.dll
+D:\FGW\Courses\1618_Programming\RE_SU24\Code\1618_RE_SU24\Lecture2\obj\Debug\net8.0\refint\Lecture2.dll
+D:\FGW\Courses\1618_Programming\RE_SU24\Code\1618_RE_SU24\Lecture2\obj\Debug\net8.0\Lecture2.pdb
+D:\FGW\Courses\1618_Programming\RE_SU24\Code\1618_RE_SU24\Lecture2\obj\Debug\net8.0\Lecture2.genruntimeconfig.cache
+D:\FGW\Courses\1618_Programming\RE_SU24\Code\1618_RE_SU24\Lecture2\obj\Debug\net8.0\ref\Lecture2.dll

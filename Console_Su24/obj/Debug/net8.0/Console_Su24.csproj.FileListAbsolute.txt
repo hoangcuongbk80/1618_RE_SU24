@@ -12,3 +12,4 @@ D:\FGW\Courses\1618_Programming\RE_SU24\Code\1618_RE_SU24\Console_Su24\obj\Debug
 D:\FGW\Courses\1618_Programming\RE_SU24\Code\1618_RE_SU24\Console_Su24\obj\Debug\net8.0\Console_Su24.pdb
 D:\FGW\Courses\1618_Programming\RE_SU24\Code\1618_RE_SU24\Console_Su24\obj\Debug\net8.0\Console_Su24.genruntimeconfig.cache
 D:\FGW\Courses\1618_Programming\RE_SU24\Code\1618_RE_SU24\Console_Su24\obj\Debug\net8.0\ref\Console_Su24.dll
+D:\FGW\Courses\1618_Programming\RE_SU24\Code\1618_RE_SU24\Console_Su24\obj\Debug\net8.0\Console_Su24.sourcelink.json
