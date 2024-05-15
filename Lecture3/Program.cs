@@ -24,13 +24,28 @@
             bool result = (a+b)>3.0M;
             Console.WriteLine(result);*/
 
-            string name = "Hoang\nCuong";
+            /*string name = "Hoang\nCuong";
             Console.WriteLine(name);
             name = "Hoang\\nCuong";
             Console.WriteLine(name);
             name = @"Hoang\nCuong";
-            Console.WriteLine(name);
+            Console.WriteLine(name);*/
 
+            /*int a = int.Parse(Console.ReadLine());
+            int b = int.Parse(Console.ReadLine());
+            int? result;
+            if (b == 0) result = null;
+            else result = a / b;
+            if(result != null)
+            {
+                Console.WriteLine(result);
+            }*/
+
+            var a = 8 / 3;
+            var b = 'A';
+            var c = "Cuong";
+            var d = 29;
+            var f = 1 > 0;
         }
     }
 }
