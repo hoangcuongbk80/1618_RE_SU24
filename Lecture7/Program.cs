@@ -47,7 +47,7 @@ namespace Lecture7
             }
             Console.WriteLine("Max: {0}", num_max);*/
 
-            // Sorting numbers
+            // Sorting numbers using array
             /*string values = Console.ReadLine();
             string[] items = values.Split(" ");
             int[] numbers = new int[items.Length];
@@ -76,11 +76,44 @@ namespace Lecture7
                 numbers[index_max] = int.MinValue;
             }
             Console.WriteLine("\nAfter sorting: ");
-            foreach(var num in numbers)
+            foreach(var num in ordered_numbers)
             {
                 Console.Write("{0} ", num);
             }*/
 
+            // Sorting numbers using List
+            /*string values = Console.ReadLine();
+            string[] items = values.Split(" ");
+            List<int> numbers = new List<int>();
+            for (int i = 0; i < items.Length; i++)
+                numbers.Add(int.Parse(items[i]));
+            int num_max = int.MinValue;
+            List<int> ordered_numbers = new List<int>();
+            Console.WriteLine("Before sorting: ");
+            foreach (var num in numbers)
+            {
+                Console.Write("{0} ", num);
+            }
+            for (int i = 0; i < items.Length; i++)
+            {
+                num_max = int.MinValue;
+                int index_max=0;
+                for (int j = 0; j < numbers.Count; j++)
+                {
+                    if (numbers[j] > num_max)
+                    {
+                        index_max = j;
+                        num_max = numbers[j];
+                    }
+                }
+                ordered_numbers.Add(numbers[index_max]);
+                numbers.RemoveAt(index_max);
+            }
+            Console.WriteLine("\nAfter sorting: ");
+            foreach(var num in ordered_numbers)
+            {
+                Console.Write("{0} ", num);
+            }*/
 
         }
     }
