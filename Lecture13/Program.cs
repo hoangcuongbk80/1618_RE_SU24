@@ -34,16 +34,6 @@ namespace Lecture13
         {
             Console.WriteLine("--------Lecture 13--------");
 
-            Teacher teacher1 = new Teacher("Hoang Cuong");
-            teacher1.salary = 1000;
-            teacher1.courses.Add("C#");
-            teacher1.courses.Add("Python");
-            teacher1.courses.Add("Java");
-            Console.WriteLine("Name: {0}, Salary: {1}", teacher1.name, teacher1.salary);
-            foreach(string s in teacher1.courses) Console.WriteLine(s);
-            teacher1.GoToTeach(teacher1.courses[0]);
-
-
             /*var day = new DateTime(2024, 1, 12);
             Console.WriteLine(day);
 
@@ -78,6 +68,14 @@ namespace Lecture13
             Console.WriteLine(f);*/
 
 
+            Teacher teacher1 = new Teacher("Hoang Cuong");
+            teacher1.salary = 1000;
+            teacher1.courses.Add("C#");
+            teacher1.courses.Add("Python");
+            teacher1.courses.Add("Java");
+            Console.WriteLine("Name: {0}, Salary: {1}", teacher1.name, teacher1.salary);
+            foreach (string s in teacher1.courses) Console.WriteLine(s);
+            teacher1.GoToTeach(teacher1.courses[0]);
 
 
         }
