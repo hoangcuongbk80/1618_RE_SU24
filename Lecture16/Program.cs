@@ -48,7 +48,7 @@
             Console.WriteLine("3->sort students");
             Console.WriteLine("4->exit");
         }
-        static void Main(string[] args)
+        static void RunStudentApp()
         {
             Console.WriteLine("------------Lecture 16--------------");
 
@@ -116,6 +116,11 @@
                         break;
                 }
             }
+        }
+
+        static void Main(string[] args)
+        {
+            RunStudentApp();
         }
     }
 }
