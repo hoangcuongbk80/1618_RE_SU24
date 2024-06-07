@@ -20,7 +20,7 @@ namespace FGW_FPT_Student
         public string Courses { get { return courses; } set { courses = value; } }
         public override string ToString()
         {
-            string info = this.name + ", " + this.id.ToString() + ", " + this.email + ", " + this.courses;
+            string info = this.name + " | " + this.id.ToString() + " | " + this.email + " | " + this.courses;
             return info;
         }
 

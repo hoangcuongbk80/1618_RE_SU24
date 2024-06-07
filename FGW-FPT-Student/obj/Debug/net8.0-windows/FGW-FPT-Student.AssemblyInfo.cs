@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FGW-FPT-Student")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd93f230c8aab211c47f66ccfdf647b0de8fcbd2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4242e33f274632d0eca465187708c9cad6e0fb0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("FGW-FPT-Student")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FGW-FPT-Student")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

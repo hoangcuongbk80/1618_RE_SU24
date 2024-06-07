@@ -42,12 +42,14 @@
             richTextBox1 = new RichTextBox();
             label5 = new Label();
             bt_Search = new Button();
+            bt_OpenFile = new Button();
+            bt_SaveFile = new Button();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
             // dataGridView1
             // 
-            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridView1.ColumnHeadersHeight = 58;
             dataGridView1.Location = new Point(12, 374);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.RowHeadersWidth = 102;
@@ -167,11 +169,35 @@
             bt_Search.Text = "Search";
             bt_Search.UseVisualStyleBackColor = false;
             // 
+            // bt_OpenFile
+            // 
+            bt_OpenFile.BackColor = Color.Tan;
+            bt_OpenFile.Location = new Point(1011, 294);
+            bt_OpenFile.Name = "bt_OpenFile";
+            bt_OpenFile.Size = new Size(188, 58);
+            bt_OpenFile.TabIndex = 14;
+            bt_OpenFile.Text = "Open File";
+            bt_OpenFile.UseVisualStyleBackColor = false;
+            bt_OpenFile.Click += bt_OpenFile_Click;
+            // 
+            // bt_SaveFile
+            // 
+            bt_SaveFile.BackColor = Color.LightSeaGreen;
+            bt_SaveFile.Location = new Point(802, 294);
+            bt_SaveFile.Name = "bt_SaveFile";
+            bt_SaveFile.Size = new Size(188, 58);
+            bt_SaveFile.TabIndex = 15;
+            bt_SaveFile.Text = "Save File";
+            bt_SaveFile.UseVisualStyleBackColor = false;
+            bt_SaveFile.Click += bt_SaveFile_Click;
+            // 
             // Form2
             // 
             AutoScaleDimensions = new SizeF(17F, 41F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1847, 1013);
+            Controls.Add(bt_SaveFile);
+            Controls.Add(bt_OpenFile);
             Controls.Add(bt_Search);
             Controls.Add(label5);
             Controls.Add(richTextBox1);
@@ -209,5 +235,7 @@
         private RichTextBox richTextBox1;
         private Label label5;
         private Button bt_Search;
+        private Button bt_OpenFile;
+        private Button bt_SaveFile;
     }
 }
